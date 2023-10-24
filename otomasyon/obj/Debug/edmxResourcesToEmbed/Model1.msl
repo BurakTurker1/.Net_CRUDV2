@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="otomasyonModelStoreContainer" CdmEntityContainer="otomasyonEntities2">
+    <EntitySetMapping Name="urun">
+      <EntityTypeMapping TypeName="otomasyonModel.urun">
+        <MappingFragment StoreEntitySet="urun">
+          <ScalarProperty Name="uID" ColumnName="uID" />
+          <ScalarProperty Name="uAd" ColumnName="uAd" />
+          <ScalarProperty Name="uMiktar" ColumnName="uMiktar" />
+          <ScalarProperty Name="uBrimFiyat" ColumnName="uBrimFiyat" />
+          <ScalarProperty Name="uSITarih" ColumnName="uSITarih" />
+          <ScalarProperty Name="uBarkod" ColumnName="uBarkod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

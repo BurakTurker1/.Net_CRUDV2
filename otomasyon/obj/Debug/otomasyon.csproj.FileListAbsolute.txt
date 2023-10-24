@@ -1,0 +1,15 @@
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\otomasyon.exe.config
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\otomasyon.exe
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\otomasyon.pdb
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\EntityFramework.dll
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\EntityFramework.xml
+D:\projeler\c#\otomasyon\otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.AssemblyReference.cache
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.Form1.resources
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.Properties.Resources.resources
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.GenerateResource.cache
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CoreCompileInputs.cache
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.csproj.CopyComplete
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.exe
+D:\projeler\c#\otomasyon\otomasyon\obj\Debug\otomasyon.pdb
